@@ -1,5 +1,5 @@
 # Teaching material for the course Medical Informatics - Public Health Data Science
-Data Science master degree programme at Università di Milano-Bicocca, formerly Data in Public and Social Services -- Data Science Lab in Public Policies and Services
+Teaching course of the Data Science master degree programme at Università di Milano-Bicocca, formerly known as Data in Public and Social Services -- Data Science Lab in Public Policies and Services.
 
 ## Contents
 This repository contains the text of the practical classes taught to the students of the short course called *Medical Informatics* (formerly *Data in Public and Social Services*) of the Data Science master degree programme at Università di Milano-Bicocca.
@@ -17,6 +17,11 @@ To run the scripts of the excercises of repository, the student needs to install
 
 ## License
 All the files of this repository are publically and openly available under the GPL-3 license.
+
+## Article
+More information about this study can be found in the following article:
+
+> Davide Chicco,  Vasco Coelho, "A teaching proposal for a short course on biomedical data science", _PLOS Computational Biology_, 2025, in press.
 
 ## Contacts
 The lesson contents and software code were designed and developed by [Davide Chicco](https://www.DavideChicco.it). Questions should be addressed to davidechicco(AT)davidechicco.it
