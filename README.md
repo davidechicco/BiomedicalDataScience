@@ -1,5 +1,5 @@
-# Teaching material for the course Medical Informatics - Public Health Data Science
-Teaching course of the Data Science master degree programme at Università di Milano-Bicocca, formerly known as Data in Public and Social Services -- Data Science Lab in Public Policies and Services.
+# Teaching material for the course Medical Informatics – Public Health Data Science
+Teaching course of the Data Science master degree programme at Università di Milano-Bicocca, formerly known as Data in Public and Social Services – Data Science Lab in Public Policies and Services.
 
 ## Contents
 This repository contains the text of the practical classes taught to the students of the short course called *Medical Informatics* (formerly *Data in Public and Social Services*) of the Data Science master degree programme at Università di Milano-Bicocca.
