@@ -23,5 +23,7 @@ More information about this study can be found in the following article:
 
 > Davide Chicco and  Vasco Coelho, ["A teaching proposal for a short course on biomedical data science"](https://doi.org/10.1371/journal.pcbi.1012946), _PLOS Computational Biology_ 21(4):e1012946, 2025. [https://doi.org/10.1371/journal.pcbi.1012946](https://doi.org/10.1371/journal.pcbi.1012946)
 
+[![A teaching proposal](proposal.png)](https://doi.org/10.1371/journal.pcbi.1012946)
+
 ## Contacts
 The lesson contents and software code were designed and developed by [Davide Chicco](https://www.DavideChicco.it). Questions should be addressed to davidechicco(AT)davidechicco.it
