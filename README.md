@@ -21,9 +21,9 @@ All the files of this repository are publically and openly available under the G
 ## Article
 More information about this study can be found in the following article:
 
->Davide Chicco and  Vasco Coelho, "<a href="https://doi.org/10.1371/journal.pcbi.1012946" target="_blank">A teaching proposal for a short course on biomedical data science</a>", *PLOS Computational Biology* 21(4):e1012946, 2025. <a href="https://doi.org/10.1371/journal.pcbi.1012946" target="_blank">https://doi.org/10.1371/journal.pcbi.1012946</a>
+> Davide Chicco and  Vasco Coelho, ["A teaching proposal for a short course on biomedical data science"](https://doi.org/10.1371/journal.pcbi.1012946), _PLOS Computational Biology_ 21(4):e1012946, 2025. [https://doi.org/10.1371/journal.pcbi.1012946](https://doi.org/10.1371/journal.pcbi.1012946){:target="_blank"}
 
-<a href="https://doi.org/10.1371/journal.pcbi.1012946" target="_blank">[![A teaching proposal](proposal.png)]</a>
+[![A teaching proposal](proposal.png)](https://doi.org/10.1371/journal.pcbi.1012946){:target="_blank"}
 
 ## Contacts
 The lesson contents and software code were designed and developed by [Davide Chicco](https://www.DavideChicco.it). Questions should be addressed to davidechicco(AT)davidechicco.it
